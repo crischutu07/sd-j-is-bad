@@ -1,0 +1,14 @@
+img {
+  /* IMPORTANT: 
+   * Make image stays the same as browser's size
+   * While it stays the same res 
+   */
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+mark {
+  background: none;
+  color: orange;
+}
